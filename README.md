@@ -1,2 +1,2 @@
 # PyMySQL-MySQL
-Database :- PyMySQL 
+Database :- MySql with Python 
